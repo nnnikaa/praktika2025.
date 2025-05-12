@@ -9,7 +9,7 @@
 
 
 <h2 align="left">Задание</h2>
-Задание размещено в папке [task] <a href="https://github.com/nnnikaa/praktika2025./blob/main/task"/> в файле README.md.(https://github.com/nnnikaa/praktika2025./blob/main/task/README.md)
+Задание размещено в файле README.md в папке task <a href="https://github.com/nnnikaa/praktika2025./blob/main/task"/> 
 
 <h2 align="left">Вариативная часть задания</h2>
 Создание Telegram-бота для регистрации на олимпиаду "Финатлон" с использованием Python.
